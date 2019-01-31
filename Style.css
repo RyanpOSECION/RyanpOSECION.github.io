@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+/*****BIG-NAME*****/
+h1 {
+    color: #000000;
+    font-size: 60
+}
+
+/*****FONT-AND-BACKGROUND*****/
+body {
+    background-color: #FFFFFA;
+    font-family: roboto condensed;
+}
+
+/*****HEADERS*****/
+h2 {
+    color: #44A1A0;
+}
+
+/*****LEFT-BULLETS*****/
+ul {
+    font-size: 17;
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: #78CDD7;
+}
+
+/*******Colum-left *********/
+
+#left-col {
+    background-color: #247B7B;
+    width: 21em;
+    height: 100vh;
+}
+
+/*****RIGHT-COLUMN*****/
+#right-col {}
+
+/*****PICTURE*****/
+#profile-pic {
+    border-radius: 50%;
+}
+
+/*****MARGIN*****/
+
+#education {
+    margin-top: 50;
+}
+
+/*****COMMUNICATION*****/
+h3 {
+    font-size: 18;
+}
+
+/*****SMALL-NAME*****/
+h4 {
+    margin-top: 20;
+    font-size: 20
+}
+
+.surname {
+    color: #247B7B;
+}
